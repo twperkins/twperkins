@@ -1,9 +1,11 @@
-<h1 align="center">Hey 👋, I'm Tom</h1>
+<h1 align="center">Hey hey, Tom here</h1>
 <h3 align="center">London based, coding faced.</h3>
 
-- 🔭 I’m currently working on [perkk](http://www.perkk.co.uk)
+- 📖 Recently finished the Le Wagon bootcamp
 
-- 🌱 I’m currently learning **python & react**
+- 🔭 Currently working on [perkk](http://www.perkk.co.uk)
+
+- 🌱 Post bootcamp learning some **python & react**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
