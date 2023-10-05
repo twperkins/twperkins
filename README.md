@@ -1,9 +1,9 @@
 <h1 align="center">Hi, Tom here </h1>
 <h3 align="center">London based, Full Stack Engineer</h3>
 
--  Working for Appear Here
+- 💼 Working for Appear Here
 
--  Currently learning Swift
+- 📖 Currently learning Swift
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
